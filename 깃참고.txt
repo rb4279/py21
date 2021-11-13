@@ -1,0 +1,5 @@
+git init 
+git add -A 
+git commit -m "test commit" 
+git remote add [test ;원격이름 내가 정하는듯] [주소]
+git push test master 
